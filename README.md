@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vjethwa2005
 - 👀 I’m interested in web development,ui/ux designing
-- 🌱 I’m currently learning JavaScript,c++
+- 🌱 I’m currently learning JavaScript,php
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e0b751ced78d29352b6905?variant=dark&roadmaps=backend%2Cpython)](https://roadmap.sh)
 
