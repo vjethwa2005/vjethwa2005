@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VARSHA JETHWA, 1st yr B.TECH CSE student,
+- 👋 Hi, I’m VARSHA JETHWA, 2nd yr B.TECH CSE student,
 - 👀 I’m interested in web development,ui/ux designing
 - 🌱 I’m currently learning JavaScript,php
 
