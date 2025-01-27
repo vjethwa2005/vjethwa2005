@@ -1,6 +1,7 @@
-- 👋 Hi, I’m VARSHA JETHWA, 2nd yr B.TECH CSE student
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React, PHP, App development
+- 👋 Hi, I’m VARSHA JETHWA, 2nd yr B.TECH CSE student.
+- 👀 I’m interested in creating websites that are fun, creative, interactive and visually appealing.
+- 💟 I love Developing and Designing Websites. 
+- 🌱 I’m currently learning React, PHP, Android Application development
 
 
 <!---
