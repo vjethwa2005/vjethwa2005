@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VARSHA JETHWA, 3nd year B.TECH CSE student.
+- 👋 Hi, I’m VARSHA JETHWA, 3rd year B.TECH CSE student.
 - 👀 I’m interested in creating websites that are fun, creative, interactive and visually appealing.
 - 💟 I love Developing and Designing Websites. 
 - 🌱 I’m currently learning React, MongoDB, Express
