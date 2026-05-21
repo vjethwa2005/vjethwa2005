@@ -23,7 +23,7 @@
 
 ---
 ## 📫 Connect With Me
-- LinkedIn: [(your link)](https://www.linkedin.com/in/varsha-jethwa-1bab0028b/)
+- LinkedIn: [(click here)](https://www.linkedin.com/in/varsha-jethwa-1bab0028b/)
 
 
 
