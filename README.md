@@ -1,10 +1,33 @@
-- 👋 Hi, I’m VARSHA JETHWA, 3rd year B.TECH CSE student.
-- 👀 I’m interested in creating websites that are fun, creative, interactive and visually appealing.
-- 💟 I love Developing and Designing Websites. 
-- 🌱 I’m currently learning React, MongoDB, Express
+# Hi there 👋 I'm Varsha Jethwa
 
+🎓 3rd Year B.Tech CSE Student  
+💻 Passionate about Web Development, UI/UX and building interactive applications  
+🚀 Interested in creating websites that are creative, responsive and user-friendly  
 
-<!---
-vjethwa2005/vjethwa2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌱 Currently Learning
+- Next.js
+- Full Stack Development
+
+---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git & GitHub
+- MongoDB
+- Express.js
+
+---
+## 📫 Connect With Me
+- LinkedIn: (your link)
+- Portfolio: (your portfolio link later)
+- Email: (optional)
+
+---
+
+⭐ Fun Fact:
+I enjoy designing websites that are both visually appealing and interactive.
