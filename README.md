@@ -23,9 +23,9 @@
 
 ---
 ## 📫 Connect With Me
-- LinkedIn: (your link)
-- Portfolio: (your portfolio link later)
-- Email: (optional)
+- LinkedIn: [(your link)](https://www.linkedin.com/in/varsha-jethwa-1bab0028b/)
+
+
 
 ---
 
