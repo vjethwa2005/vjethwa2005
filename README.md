@@ -3,7 +3,7 @@
 🎓 3rd Year B.Tech CSE Student  
 💻 Passionate about Web Development, UI/UX and building interactive applications  
 🚀 Interested in creating websites that are creative, responsive and user-friendly  
-![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjethwa2005&show_icons=true)
+
 ---
 
 ## 🌱 Currently Learning
@@ -24,7 +24,7 @@
 
 ---
 ## 📫 Connect With Me
-- LinkedIn: [(click here)](https://www.linkedin.com/in/varsha-jethwa-1bab0028b/)
+- LinkedIn: [click here](https://www.linkedin.com/in/varsha-jethwa-1bab0028b/)
 
 
 
