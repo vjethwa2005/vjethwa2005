@@ -16,9 +16,9 @@
 - HTML5
 - CSS3
 - JavaScript
-- React
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 - Git & GitHub
-- MongoDB
 - Express.js
 
 ---
