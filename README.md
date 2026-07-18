@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Varsha Jethwa
 
-🎓 3rd Year B.Tech CSE Student  
+🎓 4th Year B.Tech CSE Student  
 💻 Passionate about Web Development, UI/UX and building interactive applications  
 🚀 Interested in creating websites that are creative, responsive and user-friendly  
 
